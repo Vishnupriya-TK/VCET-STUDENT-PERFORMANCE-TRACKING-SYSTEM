@@ -268,7 +268,7 @@ Component Design & Layout
 
 Responsive Design Implementation
 
-3️⃣** Devis Aruna Devi D**
+3️⃣**Devis Aruna Devi D**
 
 **Role:** Frontend Developer
 
