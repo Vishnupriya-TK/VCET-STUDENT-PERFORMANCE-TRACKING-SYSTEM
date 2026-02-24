@@ -12,7 +12,7 @@ Built using React + Vite for the frontend and Node.js + Express + MongoDB for th
 🌐 **Demo Link:**
 
 ```
-https://drive.google.com/file/d/1cZ0_Mq6qB6380akk8LKw0z8hQaYS_vwv/view?usp=drive_link
+🚀 **Live Site:** [Visit Here](https://drive.google.com/file/d/1cZ0_Mq6qB6380akk8LKw0z8hQaYS_vwv/view?usp=drive_link)
 ```
 
 
@@ -247,7 +247,8 @@ dist
 ---
 
 # 👩‍💻 Team Members
-1️⃣ Vishnu Priya T K
+1️⃣ **Vishnu Priya T K**
+
 Role: Full Stack Developer
 
 Frontend Development (React + Vite)
@@ -262,7 +263,8 @@ GPA/CGPA Logic Implementation
 
 API Integration & Authentication
 
-2️⃣ Jeevajothi M
+2️⃣ **Jeevajothi M**
+
 Role: Frontend Developer
 
 Student Dashboard UI
@@ -271,7 +273,8 @@ Component Design & Layout
 
 Responsive Design Implementation
 
-3️⃣ Devis Aruna Devi D
+3️⃣** Devis Aruna Devi D**
+
 Role: Frontend Developer
 
 UI Enhancement & Styling
