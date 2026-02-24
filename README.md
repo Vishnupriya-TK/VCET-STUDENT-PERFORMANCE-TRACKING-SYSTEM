@@ -274,9 +274,11 @@ Responsive Design Implementation
 
 UI Enhancement & Styling
 
+Integration of Academic Visualization Modules
+
 Dashboard Components Development
 
-Integration of Academic Visualization Modules
+
 ---
 
 **© 2026 | Department of Computer Science & Engineering**
