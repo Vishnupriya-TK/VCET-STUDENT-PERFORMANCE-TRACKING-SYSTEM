@@ -9,12 +9,7 @@ Built using React + Vite for the frontend and Node.js + Express + MongoDB for th
 
 # 🔗 Live Demo
 
-🌐 **Demo Link:**
-
-```
 🚀 **Live Site:** [Visit Here](https://drive.google.com/file/d/1cZ0_Mq6qB6380akk8LKw0z8hQaYS_vwv/view?usp=drive_link)
-```
-
 
 ---
 
@@ -249,7 +244,7 @@ dist
 # 👩‍💻 Team Members
 1️⃣ **Vishnu Priya T K**
 
-Role: Full Stack Developer
+**Role:** Full Stack Developer
 
 Frontend Development (React + Vite)
 
@@ -265,7 +260,7 @@ API Integration & Authentication
 
 2️⃣ **Jeevajothi M**
 
-Role: Frontend Developer
+**Role:** Frontend Developer
 
 Student Dashboard UI
 
@@ -275,7 +270,7 @@ Responsive Design Implementation
 
 3️⃣** Devis Aruna Devi D**
 
-Role: Frontend Developer
+**Role:** Frontend Developer
 
 UI Enhancement & Styling
 
@@ -284,6 +279,6 @@ Dashboard Components Development
 Integration of Academic Visualization Modules
 ---
 
-© 2026 | Department of Computer Science & Engineering
+**© 2026 | Department of Computer Science & Engineering**
 Velammal College of Engineering and Technology
 
