@@ -280,5 +280,7 @@ Integration of Academic Visualization Modules
 ---
 
 **© 2026 | Department of Computer Science & Engineering**
+
+
 Velammal College of Engineering and Technology
 
