@@ -197,44 +197,8 @@ const Welcome = () => {
                   Student Login
                 </Button>
               </motion.div>
-              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Button
-                  variant="outlined"
-                  onClick={() => navigate('/login/mentor')}
-                  sx={{
-                    ...buttonStyles,
-                    borderColor: colors.primary,
-                    color: colors.primary,
-                    backgroundColor: 'rgba(255, 255, 255, 0.7)',
-                    '&:hover': {
-                      borderColor: colors.secondary,
-                      backgroundColor: 'rgba(218, 181, 233, 0.9)',
-                      color: colors.textPrimary,
-                    },
-                  }}
-                >
-                  Mentor Login
-                </Button>
-              </motion.div>
-              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Button
-                  variant="outlined"
-                  onClick={() => navigate('/login/hod')}
-                  sx={{
-                    ...buttonStyles,
-                    borderColor: colors.primary,
-                    color: colors.primary,
-                    backgroundColor: 'rgba(255, 255, 255, 0.7)',
-                    '&:hover': {
-                      borderColor: colors.secondary,
-                      backgroundColor: 'rgba(218, 181, 233, 0.9)',
-                      color: colors.textPrimary,
-                    },
-                  }}
-                >
-                  HOD Login
-                </Button>
-              </motion.div>
+             
+              
               <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <Button
                   variant="outlined"
