@@ -246,37 +246,16 @@ dist
 
 **Role:** Full Stack Developer
 
-Frontend Development (React + Vite)
-
-Class In-Charge Dashboard UI
-
-Backend Development (Node.js + Express)
-
-MongoDB Database Design
-
-GPA/CGPA Logic Implementation
-
-API Integration & Authentication
 
 2️⃣ **Jeevajothi M**
 
 **Role:** Frontend Developer
 
-Student Dashboard UI
-
-Component Design & Layout
-
-Responsive Design Implementation
 
 3️⃣**Devis Aruna Devi D**
 
 **Role:** Frontend Developer
 
-UI Enhancement & Styling
-
-Integration of Academic Visualization Modules
-
-Dashboard Components Development
 
 
 ---
